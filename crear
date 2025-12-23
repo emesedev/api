@@ -1,0 +1,27 @@
+npm install -g @vue-cli
+
+npm install -g yarn
+
+yarn global add @quasar/cli
+
+yarn create quasar
+
+Seleccionar ( App with Quasar CLI, let's go! )
+
+Seleccionar ( Quasar Vue 3 )
+
+Seleccionar ( Typescript )
+
+Seleccionar ( Quasar App CLI with Vite 2 [estabe | v1] -recommended )
+
+Seleccionar ( Composition API with <script setup> - recommended )
+
+Seleccionar (Sass with SCSS syntax)
+
+ * ESLint
+ * State Management (Pinia)
+() State Management (Vuex) [DEPRECATED by Vue Team]
+ * Axios
+() Vue-i18n
+
+
